@@ -1,0 +1,64 @@
+hr{
+	width: 200px;
+	size: 5px;
+	border-top: 1px; 
+	border-color:rgb(101, 182, 214) ;
+}
+.parallax-container{
+	background-size: 240px;
+
+
+}
+#des{
+	font-color: blue lighten-4;
+}
+
+.parallax img{
+	filter: grayscale(1);
+	opacity: 1 :important;
+}
+h3 .parallax{
+	font-color: white;
+}
+
+
+.brand-logo{
+	margin-left: -57px;
+}
+.li{
+	margin-right: -50px;
+}
+
+.desc{
+	margin: 20px;
+}
+
+.link{
+	color: black;
+	padding-bottom: 10px;
+	
+}
+#card-panel:hover{
+	box-shadow: 0 5px 10px 0;
+}
+
+.profilgit{
+	margin-bottom: 14px;
+}
+
+.sosmed{
+	height: 20%;
+}
+
+section{
+	margin-bottom: 100px;
+}
+
+.collect{
+	box-shadow: 0 3px 3px 0;
+}
+
+
+#form{
+	box-shadow: 0 3px 3px 0;
+}
